@@ -2,9 +2,10 @@
 <h3 align="center">A passionate AI Engineer from Egypt</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Assalamuo++Alaikum+Warahmatullah..♥++;AI+engineer,;Passionate+about+LLM+and+NLP,;Computer+vision+solutions">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=cyan&size=24&center=true&vCenter=true&width=700&height=100&lines=Assalamu+Alaikum+Warahmatullah..♥;AI+Engineer+%7C+LLM+%26+NLP+Enthusiast;Building+smart+Computer+Vision+solutions;Exploring+the+world+of+AI+one+model+at+a+time;Starting+my+journey+on+social+media;Follow+me+on+LinkedIn+%F0%9F%91%89">
   </a>
 </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahyasser0&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahyasser0" /> </p>
 
