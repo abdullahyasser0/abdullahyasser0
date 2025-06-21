@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on integrating companies data with an LLMs **Qorrect Graphrag**
 
-- 💬 Ask me about **AI integrations,**
+- 💬 Ask me about **AI integrations,Large language models and Computer vision.**
 
 - 📫 How to reach me **Abdullahyasser2506@gmail.com**
 
